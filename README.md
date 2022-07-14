@@ -6,6 +6,8 @@ wget https://raw.githubusercontent.com/peterjpxie/glances_influxdb_grafana/maste
 
 ## Tested Platforms
 * Ubuntu 16.04
+* Ubuntu 18.04
+* Ubuntu 22.04
 
 It should work on Debian as well, but not tested.
 
